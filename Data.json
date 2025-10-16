@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "MSI GL63 15.6 Gaming Laptop",
+        "title": "Intel Core i7, GTX 1050, 8GB RAM, 256GB SSD + 1TB HDD",
+        "price": "$800",
+        "img": "https://i5.walmartimages.com/seo/MSI-GL63-Gaming-Laptop-15-6-Intel-Core-i7-8750H-NVIDIA-GeForce-GTX-1050-8gb-RAM-256gb-SSD-1TB-HDD_3a04f0fc-6fed-4b52-912c-11317e493ad1_1.9e46d617254b76bff5a4cda944922f78.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "ASUS ROG",
+        "title": "Strix G18 G814JI-N6126W",
+        "price": "$1,749.00",
+        "img": "https://toptechkh.com/wp-content/uploads/2025/01/1-44.webp"
+    },
+    {
+        "id": 3,
+        "name": "Dell XPS 15",
+        "title": "Intel Core i9-13900H, RTX 4070, 32GB RAM, 1TB SSD, OLED Display",
+        "price": "$2,199.00",
+        "img": "https://m.media-amazon.com/images/I/71lgxJKQZVL._AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Apple MacBook Pro 16”",
+        "title": "M3 Max Chip, 36GB RAM, 1TB SSD, Liquid Retina XDR Display",
+        "price": "$3,499.00",
+        "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spaceblack-select-202310"
+    },
+    {
+        "id": 5,
+        "name": "Lenovo Legion 5 Pro",
+        "title": "AMD Ryzen 7 7840HS, RTX 4070, 16GB RAM, 1TB SSD, 165Hz QHD Display",
+        "price": "$1,499.00",
+        "img": "https://m.media-amazon.com/images/I/71ZSD4+ylTL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 6,
+        "name": "HP Omen 16",
+        "title": "Intel Core i7-13700HX, RTX 4060, 16GB RAM, 512GB SSD",
+        "price": "$1,349.00",
+        "img": "https://m.media-amazon.com/images/I/81pIukY57BL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Acer Predator Helios 300",
+        "title": "Intel Core i7-12700H, RTX 3060, 16GB RAM, 1TB SSD, 144Hz Display",
+        "price": "$1,299.00",
+        "img": "https://m.media-amazon.com/images/I/81Dn-XD8GsL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Razer Blade 15",
+        "title": "Intel Core i9, RTX 4080, 32GB RAM, 1TB SSD, QHD 240Hz Display",
+        "price": "$2,799.00",
+        "img": "https://m.media-amazon.com/images/I/71Xic6Agn9L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Gigabyte AORUS 17X",
+        "title": "Intel Core i9-13980HX, RTX 4090, 64GB RAM, 2TB SSD",
+        "price": "$3,999.00",
+        "img": "https://m.media-amazon.com/images/I/410j5klAqWL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Microsoft Surface Laptop Studio 2",
+        "title": "Intel Core i7, RTX 4060, 32GB RAM, 1TB SSD, 14.4” Touchscreen",
+        "price": "$2,099.00",
+        "img": "https://m.media-amazon.com/images/I/518vyV8PAjL._AC_SX466_.jpg"
+    }
+]
